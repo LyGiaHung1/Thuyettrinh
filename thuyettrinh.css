@@ -1,0 +1,123 @@
+.main{
+  display: flex;
+  width: 100%;
+  height: 500px;
+}
+.trai{
+width: 50%;
+border: solid 2px red;
+}
+.phai{
+  width: 50%;
+  border: solid 2px red;;
+}
+.form{
+  width: 70%;
+  height: 450px;
+  border: solid 2px blue;
+  font-size: 30px;
+}
+.khachsan{
+  font-size: 30px;
+  margin: 25px 0 0 25px;
+  height: 25px;
+
+}
+.noidi{
+  font-size: 20px;
+  margin: 15px 0 -16px 25px;
+  height: 25px;
+} 
+.noiden{
+  font-size: 20px;
+  margin: 1px 0 -16px 25px;
+  height: 25px;
+}
+.diin{
+  width: 250px;
+  height: 20px;
+  margin: 1px 0 0 25px;
+}
+.denin{
+  width: 250px;
+  height: 20px;
+  margin: 1px 0 0 25px;
+}
+.ngaythang{
+  display: flex;
+  margin-top: 5px;
+}
+.ngayve{
+  font-size: 20px;
+  margin: 5px 20px -16px 15px;
+}
+.ngaydi{
+  font-size: 20px;
+  margin: 5px 0 -16px 25px;
+  width: 70x;
+}
+.ngayvein{
+  margin: 30px 0 0 -130px;
+  width: 105px;
+  height: 20px;
+}
+.ngaydiin{
+  margin: 30px 0 0 -108px;
+  width: 105px;
+  height: 20px;
+}
+
+.hanhkhach{
+  font-size: 20px;
+  width: 150px;
+  margin: -50px 0 -10px 280px ;
+  height: 20px;
+}
+.hanhkhachin{
+  margin: 15px 0 -120px 280px;
+  width: 120px;
+  height: 20px;
+}
+.xuatketqua{
+  margin: 10px 0 0 25px;
+  border: solid 2px rebeccapurple;
+  height: 85px;
+  width: 80%;
+}
+.thongtinkhachhanh{
+  display: flex;
+}
+.tenkhach{
+  margin: 5px 0 0 25px;
+  font-size: 20px;
+  width: 135px;
+  height: 10px;
+}
+.tenkhachin{
+  margin: 5px 0 0 25px;
+}
+.emailkhach{
+  margin: 5px 0 0 9px;
+  font-size: 20px;
+  width: 160px;
+  height: 10px;
+}
+.sdtkhach{
+  margin: 5px 0 0 0px;
+  font-size: 20px;
+  width: 190px;
+  height: 10px;
+}
+.tenkhachin{
+  width: 130px;
+}
+.emailkhachin{
+  width: 145px;
+}
+.sdtkhachin{
+  width: 188px;
+}
+.datphong{
+  height: 50px;
+  margin: 5px 0 0 100px;
+}
